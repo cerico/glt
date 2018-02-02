@@ -46,6 +46,10 @@ http://www.startribune.com/local/index.rss2
 
 [√] Only refreshes or direct links in dev. Fixed, can now refresh and direct link in production
 
+[ ] Show which link is active in sidebar
+
+[ ] Show Time/Date of each article in feed, not just bog standard list
+
 [ ] General Look and Feel
 
 [ ] No work done on small screen view
