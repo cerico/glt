@@ -58,6 +58,8 @@ http://www.startribune.com/local/index.rss2
 
 [ ] No work done on small screen view
 
+[ ] Refresh only works if extension is .xml 
+
 [ ] No error handling yet
 
 [ ] Normally would use https in production but feeds are http only

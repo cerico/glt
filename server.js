@@ -1,9 +1,9 @@
 const path = require("path");
 const express = require("express");
-const history = require('connect-history-api-fallback')
+const history = require("connect-history-api-fallback");
 
 const app = express();
-const staticFileMiddleware = express.static('dist');
+const staticFileMiddleware = express.static("dist");
 
 const port = 59339;
 
@@ -20,10 +20,12 @@ app.get("/", function(req, res) {
 });
 
 app.use(staticFileMiddleware);
-app.use(history({
-  disableDotRule: true,
-  verbose: true
-}));
+app.use(
+  history({
+    disableDotRule: true,
+    verbose: true
+  })
+);
 app.use(staticFileMiddleware);
 
 app.listen(port, "localhost", function(err) {
