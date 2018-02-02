@@ -36,6 +36,11 @@ npm run deploy
 
 Pushes to DigitalOcean droplet, runs on http://glt.malham.io
 
+## Sample Feed to use
+
+```
+http://www.startribune.com/local/index.rss2
+```
 
 ## TODO / Issues
 
