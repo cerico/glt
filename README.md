@@ -44,7 +44,7 @@ http://www.startribune.com/local/index.rss2
 
 ## TODO / Issues
 
-[ ] Only refreshes or direct links in dev. Need to use connect-history-api-fallback in production build, haven't done yet - will do in the next hour!
+[√] Only refreshes or direct links in dev. Fixed, can now refresh and direct link in production
 
 [ ] General Look and Feel
 
