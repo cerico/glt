@@ -52,6 +52,8 @@ http://www.startribune.com/local/index.rss2
 
 [ ] Show Time/Date of each article in feed, not just bog standard list
 
+[ ] Think about nicer urls
+
 [ ] General Look and Feel
 
 [ ] No work done on small screen view
