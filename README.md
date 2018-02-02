@@ -39,7 +39,7 @@ Pushes to DigitalOcean droplet, runs on http://glt.malham.io
 
 ## TODO / Issues
 
-[ ] Only refreshes or direct links in dev. Need to use connect-history-api-fallback in production build, haven't done yet
+[ ] Only refreshes or direct links in dev. Need to use connect-history-api-fallback in production build, haven't done yet - will do in the next hour!
 
 [ ] General Look and Feel
 
